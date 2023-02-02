@@ -1,0 +1,19 @@
+$blueish: #04ff00;
+$darkTextColor: rgb(43 46 54);
+$lightBgColor: rgb(238 240 249);
+$darkBgColor: rgb(21 50 80);
+$darkIconColor: rgb(95 102 126);
+$primaryTextColor: #3169eb;
+$primaryBgColor: #3169eb;
+$secondaryBgColor: rgb(0, 68, 128);
+
+.chevronDown {
+  background-image: url("/chevron-down.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.4em;
+  width: 1.4em;
+  display: block;
+  opacity: 0.5;
+  margin-right: 5px;
+}
